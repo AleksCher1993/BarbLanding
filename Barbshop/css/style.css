@@ -55,7 +55,7 @@ img.logo {
 }
 
 .no-webp header {
-  background-image: url("/img/bgheader.png"); }
+  background-image: url("../img/bgheader.png"); }
 
 header {
   background-repeat: no-repeat;
@@ -1235,7 +1235,7 @@ a.active {
 
 @media (min-width: 200px) and (max-width: 575.98px) {
   .no-webp header {
-    background-image: url("/img/bgonemedia.png"); }
+    background-image: url("../img/bgonemedia.png"); }
   header {
     background-position: center;
     height: 620px;
@@ -1934,7 +1934,7 @@ a.active {
   }
 }
 
-.webp header { background-image: url(/img/bgheader.webp); }
+.webp header { background-image: url(../img/bgheader.webp); }
 
 .webp .leftflag { background: url(../img/leftflag.webp); }
 
@@ -1967,5 +1967,5 @@ a.active {
 
 @media (min-width: 200px) and (max-width: 575.98px) {
 
-  .webp header { background-image: url(/img/bgonemedia.webp); }
+  .webp header { background-image: url(../img/bgonemedia.webp); }
 }
