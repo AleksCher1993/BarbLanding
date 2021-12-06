@@ -301,7 +301,7 @@ a.active {
 }
 
 .no-webp .main-section-masters {
-  background-image: url("../img/sectionmastersimg/bgsectionmasters.png"); }
+  background: url("../img/sectionmastersimg/bgsectionmasters.png"); }
 
 .main-section-masters {
   background-repeat: no-repeat;
@@ -1004,7 +1004,7 @@ a.active {
   }
 
   .no-webp .main-section-masters {
-    background-image: url("../img/sectionmastersimg/bgsectionmastersmobile.png"); }
+    background: url("../img/sectionmastersimg/bgsectionmastersmobile.png"); }
 
   .main-section-masters {
     height: -webkit-max-content;
@@ -1940,7 +1940,7 @@ a.active {
 
 .webp .rightflag { background: url(../img/rightflag.webp); }
 
-.webp .main-section-masters { background-image: url(../img/sectionmastersimg/bgsectionmasters.webp); }
+.webp .main-section-masters { background: url(../img/sectionmastersimg/bgsectionmasters.webp); }
 
 .webp .footer { background: url(../img/bgfooter.webp); }
 
@@ -1962,7 +1962,7 @@ a.active {
 
 @media (max-width: 575.98px) {
 
-  .webp .main-section-masters { background-image: url(../img/sectionmastersimg/bgsectionmastersmobile.webp); }
+  .webp .main-section-masters { background: url(../img/sectionmastersimg/bgsectionmastersmobile.webp); }
 }
 
 @media (min-width: 200px) and (max-width: 575.98px) {
